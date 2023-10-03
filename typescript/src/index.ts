@@ -108,3 +108,11 @@ const veichle = {
  */
 
 // Intersection types are : meaning that a variable must be all of the types in the intersection
+
+/**
+ * Functions
+ */
+
+// Callable Types: Functions can be types too and vice versa in TypeScript because of the structural typing system that TypeScript uses to determine type compatibility.
+
+// void: The void type is used when there is no type at all. This is usually seen as the return type of functions that do not return a value:
