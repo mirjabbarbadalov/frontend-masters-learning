@@ -98,3 +98,13 @@ const veichle = {
 /**
  * Union Types
  */
+
+// Union meaning that a variable can be one of the types in the union
+// Union types are denoted with a pipe (|) between the types
+// let x: number | string; ( | ) pipe means or
+
+/**
+ * Intersection Types
+ */
+
+// Intersection types are : meaning that a variable must be all of the types in the intersection
