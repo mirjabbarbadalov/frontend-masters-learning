@@ -95,10 +95,6 @@ const veichle = {
   isElectric: false,
 };
 
-/**
- * Union Types
- */
-
 
 
 /**
