@@ -1,0 +1,12 @@
+{
+  "name": "intro-to-cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bigO.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon big0.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
