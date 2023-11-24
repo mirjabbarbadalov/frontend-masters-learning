@@ -1,0 +1,15 @@
+{
+  "name": "crashcourse-yt",
+  "version": "6.6.6",
+  "description": "YouTube Tutorial for Node Crash Course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Mirjabbar Badalov (Mirishh)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
